@@ -7,7 +7,7 @@ Tento software vznikl za podpory Fakulty informačních technologií ČVUT v Pra
 
 This software was developed with the support of the Faculty of Information Technology at the Czech Technical University in Prague, fit.cvut.cz
 
-![ctu-logo](logo-fit-en-modra.jpg)
+<img src="logo-fit-en-modra.jpg" alt="ctu-logo" style="width: 25%;">
 
 
 
